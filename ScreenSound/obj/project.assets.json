@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rodolfo.belo\\Documents\\dev\\formacao-cSharp-inicio\\ScreenSound\\ScreenSound.csproj",
+      "projectUniqueName": "C:\\Users\\rodolfo.belo\\Documents\\dev\\AprProgCSharpOO\\ScreenSound\\ScreenSound.csproj",
       "projectName": "ScreenSound",
-      "projectPath": "C:\\Users\\rodolfo.belo\\Documents\\dev\\formacao-cSharp-inicio\\ScreenSound\\ScreenSound.csproj",
+      "projectPath": "C:\\Users\\rodolfo.belo\\Documents\\dev\\AprProgCSharpOO\\ScreenSound\\ScreenSound.csproj",
       "packagesPath": "C:\\Users\\rodolfo.belo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rodolfo.belo\\Documents\\dev\\formacao-cSharp-inicio\\ScreenSound\\obj\\",
+      "outputPath": "C:\\Users\\rodolfo.belo\\Documents\\dev\\AprProgCSharpOO\\ScreenSound\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rodolfo.belo\\AppData\\Roaming\\NuGet\\NuGet.Config",

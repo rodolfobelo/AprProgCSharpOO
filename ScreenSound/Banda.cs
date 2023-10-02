@@ -11,5 +11,4 @@
             Console.WriteLine($"Álbum: {album.Nome} ({album.DuracaoTotal} seg)");
         }
     }
-
 }
