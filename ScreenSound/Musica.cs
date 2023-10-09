@@ -15,7 +15,7 @@
     public void ExibirFichaTecnica()
     {
         Console.WriteLine($"\nNome: {Nome}");
-        Console.WriteLine($"Artista: {Artista}");
+        Console.WriteLine($"Artista: {Artista.Nome}");
         Console.WriteLine($"Duração: {Duracao}");
         if (Disponivel)
         {
