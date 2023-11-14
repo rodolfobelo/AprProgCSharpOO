@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\guilherme\\.nuget\\packages\\": {}
+    "C:\\Users\\rodolfo.belo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guilherme\\source\\repos\\ScreenSound-04\\ScreenSound-04.csproj",
+      "projectUniqueName": "C:\\Users\\rodolfo.belo\\Documents\\dev\\AprProgCSharpOO\\ScreenSound-04\\ScreenSound-04.csproj",
       "projectName": "ScreenSound-04",
-      "projectPath": "C:\\Users\\guilherme\\source\\repos\\ScreenSound-04\\ScreenSound-04.csproj",
-      "packagesPath": "C:\\Users\\guilherme\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guilherme\\source\\repos\\ScreenSound-04\\obj\\",
+      "projectPath": "C:\\Users\\rodolfo.belo\\Documents\\dev\\AprProgCSharpOO\\ScreenSound-04\\ScreenSound-04.csproj",
+      "packagesPath": "C:\\Users\\rodolfo.belo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rodolfo.belo\\Documents\\dev\\AprProgCSharpOO\\ScreenSound-04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\guilherme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rodolfo.belo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
