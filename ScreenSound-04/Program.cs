@@ -6,10 +6,13 @@ using (HttpClient client = new HttpClient())
 {
     try
     {
-        string resposta = await client.GetStringAsync("https://guilhermeonrails.github.io/api-csharp-songs/songs.json");
-        var musicas = JsonSerializer.Deserialize<List<Musica>>(resposta)!;
+        //string resposta = await client.GetStringAsync("https://guilhermeonrails.github.io/api-csharp-songs/songs.json");
+        //var musicas = JsonSerializer.Deserialize<List<Musica>>(resposta)!;
 
-        LinqFilter.FiltrarMusicasEmCSharp(musicas);
+        string conexao = await client.GetStringAsync("http://wstotvs.unifametro.edu.br:10451/wsDataServer/MEX?wsdl");
+        Console.WriteLine(conexao);
+
+        //LinqFilter.FiltrarMusicasEmCSharp(musicas);
 
         //musicas[1].ExibirDetalhesDaMusica();
         //LinqFilter.FiltrarTodosOsGenerosMusicais(musicas);
